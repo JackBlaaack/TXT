@@ -1,0 +1,6 @@
+Preferences:
+Favorite film: Harry Potter
+Favorite serial: Friends
+Favorite food: Spagetti with cheese
+Favorite time of year: Spring
+Favorite country: The USA.

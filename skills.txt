@@ -1,0 +1,8 @@
+Skills:
+HTML
+JIRA
+Git
+TestTrail
+Test Case
+Check List
+Java Script
